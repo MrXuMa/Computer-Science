@@ -36,7 +36,7 @@ public class Galf_Data
 
     public static void golfersList()
     {
-        System.out.println("Which of these is your favorite golfer this season so far?");
+        System.out.println("Hey Whats up man?");
         stars(200);
         System.out.println("\nTiger Woods \nBryson Dechambeau \nXander Schauffele \nPhil Mickelson \nRory Mcilroy \nBrooks Koepka \nDustin Johnson \nJon Rahm \nRickie Fowler\nJustin Thomas");
         stars(200);
